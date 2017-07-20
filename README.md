@@ -1,2 +1,4 @@
 # hello-world
-the introdactory repository
+
+Hi there!
+It meeee!!I'm...,well...,I'm me! :)
